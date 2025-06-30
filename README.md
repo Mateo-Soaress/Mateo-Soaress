@@ -2,8 +2,8 @@
 
 
 
-- 🌱 Estudando: Java.
-- 🌱 Sei o básico de: HTML5, CSS3, JavaScript e Python.
+- 🌱 Estudando: HTML5, CSS3, JavaScript, Java e MySQL.
+- Cursando Técnico em Informática Integrado ao Ensino Médio no IFPR - Campus Curitiba
 
 <div style="inline_block">
   <a href="https://github.com/Mateo-Soaress">
