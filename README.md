@@ -20,6 +20,6 @@
   <img align="center" alt="Mateo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-![Snake animation](https://github.com/MateoSoares/MateoSoares/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Mateo-Soaress/Mateo-Soaress/blob/output/github-contribution-grid-snake.svg)
 
 ##
