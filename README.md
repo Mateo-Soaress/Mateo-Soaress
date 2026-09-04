@@ -2,15 +2,9 @@
 
 
 
-- 🌱 Estudando: HTML5, CSS3, JavaScript, Java e MySQL.
+- 🌱 Estudando: HTML5, CSS3, JavaScript, Java, MySQL e PHP com Laravel.
 - Cursando Técnico em Informática Integrado ao Ensino Médio no IFPR - Campus Curitiba
 
-<div style="inline_block">
-  <a href="https://github.com/Mateo-Soaress">
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api?username=Mateo-Soaress&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="410em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mateo-Soaress&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
   ##
   
   <div style="display: inline_block"><br>
